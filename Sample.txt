@@ -1,3 +1,2 @@
 Hello! This is a text file made for GIT demonstration.
-This is my modification.
 
